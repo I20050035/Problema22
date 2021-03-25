@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\bin\Debug\Problema 23.exe.config
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\bin\Debug\Problema 23.exe
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\bin\Debug\Problema 23.pdb
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\obj\Debug\Problema 23.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\obj\Debug\Problema_23.Form1.resources
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\obj\Debug\Problema_23.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\obj\Debug\Problema 23.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\obj\Debug\Problema 23.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\obj\Debug\Problema 23.exe
+C:\Users\Usuario\source\repos\Problema 23\Problema 23\obj\Debug\Problema 23.pdb
